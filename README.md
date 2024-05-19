@@ -1,0 +1,1 @@
+# kraken-simcompanies-calculator
